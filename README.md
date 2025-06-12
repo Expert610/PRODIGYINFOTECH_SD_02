@@ -47,7 +47,11 @@ It also tracks the player's score and allows replaying the game with ease.
 
 🖼️ Screenshot:
 
-task-02.PNG
+### 🖼️ Screenshot:
+[![GUI Screenshot](task-02.PNG)](task-02.PNG)
+### 🖼️ Screenshot:
+[![GUI Screenshot](task-02(2).PNG)](task-02(2).PNG)
+
 
 task-02(2).PNG
 <!-- Replace `your_screenshot_filename.png` with the actual file name like `screenshot.png` -->
